@@ -1,4 +1,5 @@
-This is the front end of a microservices architecture. This React app calls on two Express applications. One for posts and the other for comments corresponding to those posts. 
+## This is the front end of a microservices architecture.
+## This React application calls on multiple Express applications. 
 
 ### API for Blog Posts
 [Posts-Service](https://github.com/Arthur-Rankin/PostsService)
