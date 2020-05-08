@@ -1,11 +1,14 @@
 # This is the front end of a microservices architecture.
 ## This React application calls on multiple Express applications. 
 
-#### API for Blog Posts
-[Posts-Service](https://github.com/Arthur-Rankin/PostsService)
+API for all C.R.U.D Functionallity for Blog Posts
+[Posts Service](https://github.com/Arthur-Rankin/PostsService)
 
-#### API for Comments to a specific Post
-[Comments-Service](https://github.com/Arthur-Rankin/CommentsService)
+API for all C.R.U.D Functionallity for Post Comments
+[Comments Service](https://github.com/Arthur-Rankin/CommentsService)
 
-#### async Event Bus to signal changes to other API's
-[Event-Bus](https://github.com/Arthur-Rankin/event-bus)
+Async Event Bus to signal changes to other API's
+[Event Bus](https://github.com/Arthur-Rankin/event-bus)
+
+Query Service for all /GET methods. 
+[Query Service](https://github.com/Arthur-Rankin/QueryService)
