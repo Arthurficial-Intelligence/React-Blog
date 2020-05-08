@@ -1,4 +1,4 @@
-## This is the front end of a microservices architecture.
+# This is the front end of a microservices architecture.
 ## This React application calls on multiple Express applications. 
 
 ### API for Blog Posts
