@@ -10,5 +10,5 @@
 #### async Event Bus to signal changes to other API's
 [Event Bus](https://github.com/Arthur-Rankin/event-bus)
 
-#### async Event Bus to signal changes to other API's
+#### Query Service API
 [Query Service](https://github.com/Arthur-Rankin/QueryService)
