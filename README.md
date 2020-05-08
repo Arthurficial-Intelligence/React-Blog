@@ -8,4 +8,4 @@
 [Comments-Service](https://github.com/Arthur-Rankin/CommentsService)
 
 #### async Event Bus to signal changes to other API's
-[Event-Bus](https://github.com/Arthur-Rankin/Event-Bus)
+[Event-Bus](https://github.com/Arthur-Rankin/event-bus)
